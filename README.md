@@ -10,7 +10,7 @@ Press `M` for My Posts.
 
 Press `A` for Add a Post.
 
-### Login / Resgister form
+### Login / Register form
 Here, users can either login by completing the form or go to the registration process.
 <img src="pics/login.png" />
 
